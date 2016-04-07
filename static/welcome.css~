@@ -1,0 +1,21 @@
+h1{
+	color: white;
+}
+
+body{
+	background-image: url("http://revelwallpapers.net/d/736D714D6732445A72646A4C72344F6671584F4676745774764E64355A673D3D/kids-cartoon-paradise-autumn-read-book-tree.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+a.bla{
+	color: white;
+	font-size: 200%;
+}
+
+#pi{
+
+	color:white;
+	font-size:150%;
+}
